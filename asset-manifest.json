@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ctq-assignment/static/css/main.b52dc950.css",
+    "main.js": "/ctq-assignment/static/js/main.ad94eb60.js",
+    "static/js/787.305a9687.chunk.js": "/ctq-assignment/static/js/787.305a9687.chunk.js",
+    "static/media/logo.svg": "/ctq-assignment/static/media/logo.f2b41cd8cf3b7e03583bef01349744fd.svg",
+    "static/media/empty-profile.svg": "/ctq-assignment/static/media/empty-profile.fc5c8e819b9b88b44f25a65dd0870a1e.svg",
+    "index.html": "/ctq-assignment/index.html",
+    "main.b52dc950.css.map": "/ctq-assignment/static/css/main.b52dc950.css.map",
+    "main.ad94eb60.js.map": "/ctq-assignment/static/js/main.ad94eb60.js.map",
+    "787.305a9687.chunk.js.map": "/ctq-assignment/static/js/787.305a9687.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b52dc950.css",
+    "static/js/main.ad94eb60.js"
+  ]
+}
